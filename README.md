@@ -6,10 +6,11 @@ Atom contains a very small nucleus composed of positively charged protons and un
 
 ## NUCLEAR STABILITY 
 Several factors are to be taken to account while discussing stability of nucleus 
-* 1. Neutron-proton ratio 
-* 2. Atomic mass
-* 3. Even or odd number protons and neutrons 
-* 4. Binding energy per nucleon 
+-  Neutron-proton ratio 
+-  Atomic mass
+-  Even or odd number protons and neutrons 
+-  Binding energy per nucleon 
+
 Lighter nuclei tend to have same number of neutrons and protons. As atomic number increases, more number of neutrons are required to stabilize nucleus since coulomb repulsion between protons also increases. Thus heavier atoms tend to have higher neutron-proton ratio. Nuclei also tend to unstable at higher masses, as strong nuclear force is extremely short ranged and is unable to hold together the neutrons and protons required to for a stable atoms. Nucleus tends to more stable if they contain even numbers of protons and neutrons. Odd-even pair and even-odd pair are less stable. Only five known stable nuclei contain odd-odd pair of neutrons and protons. This is one unpaired nucleon, while in odd-odd nuclei there are two. This will decrease their stability. Binding energy is defined as the energy released while a nucleus is formed from its constituent nucleons. This is equal to the energy required to separate the nucleons into nucleons. The decrease in energy is reflected in the mass of nuclei which is always less than sum of mass of all the protons and neutrons it contains. The difference is termed as mass defect. The binding energy is equal to the energy equivalent to mass defect as defined by the mass-energy equivalence. The nucleus is more stable when the binding energy per nucleon is higher.
 
 ## LIQUID DROP MODEL
