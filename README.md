@@ -49,8 +49,11 @@ Thus the energy released from interaction of nucleons is directly proportional t
 Where a1 is a constant.
 
 ### Surface energy
-Since nucleus behaves as drop of liquid, it exhibits characteristics like surface tension. Presence of surface tension can increase the net energy of the drop. In a nucleus, the identical energy term is called surface energy. While calculating volume energy term, it was assumed that all the atoms have twelve neighbours. This is false in the case of surface nucleons, thus the net energy released is less than the volume energy. Surface energy is proportional to surface area, which is proportional to square of radius of nucleus. Since volume is directly proportional to mass number and to the cube of radius, a proportionality relation can be worked out between mass number and surface energy. Thus surface energy term is found out to be,
-𝐸𝑆=−𝑎2𝐴23
+Since nucleus behaves as drop of liquid, it exhibits characteristics like surface tension. Presence of surface tension can increase the net energy of the drop. In a nucleus, the identical energy term is called surface energy.
+While calculating volume energy term, it was assumed that all the atoms have twelve neighbours. This is false in the case of surface nucleons, thus the net energy released is less than the volume energy. Surface energy is proportional to surface area, which is proportional to square of radius of nucleus. Since volume is directly proportional to mass number and to the cube of radius, a proportionality relation can be worked out between mass number and surface energy. Thus surface energy term is found out to be,
+<p align="center">
+ <b>𝐸<sub>S</sub>=-𝑎<sub>1</sub>𝐴<sup>2/3</sup></b>
+ </p>
 Where a2 is a constant and negative sign indicates that surface energy decreases the binding energy.
 
 ### Coulomb energy
