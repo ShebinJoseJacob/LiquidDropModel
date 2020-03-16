@@ -35,8 +35,17 @@ Binding energy is defined as the energy released while a nucleus is formed from 
 The liquid drop model was proposed by George Gamov in 1929. Nucleons were assumed to be interacting with only neighbouring nucleons. If they were fixed in their position like atoms in a solid, there would have been vibrations, and it was calculated that atom would not be stable. So nucleons were said to be free to move around in the nucleus like molecules in a liquid. The binding energy was then equal to the energy released from the interactions between nucleons. In this way, five types of interaction energies were calculated.
 
 ### Volume energy 
-In range of around 1 fm, nuclear forces are attractive. Thus when two nucleons interact through strong nuclear force, a net release in energy is resulted. If U is the total energy released due to such a binding of two nucleons, it can thought of as each nucleons releasing ½U equivalent of energy. Since strong force does not differentiate between protons and neutrons, interactions between different types of nucleon does not result in release in different energies. Both nucleons and the nucleus are then approximated as spherical in shape. A sphere can have a maximum of twelve neighbours. Therefore a single nucleon releases a total energy 6U from interacting with the twelve neighbouring nucleons. So in a closely packed nucleus having A number of nucleons, where A is the mass number of the nucleus, the total energy released is 6UA. Thus the energy released from interaction of nucleons is directly proportional to the mass number of nucleons. This is called the volume energy, since it is proportional to the volume.
-𝐸𝑉=𝑎1𝐴
+In range of around 1 fm, nuclear forces are attractive. Thus when two nucleons interact through strong nuclear force, a net release in energy is resulted.
+
+If U is the total energy released due to such a binding of two nucleons, it can thought of as each nucleons releasing ½U equivalent of energy. Since strong force does not differentiate between protons and neutrons, interactions between different types of nucleon does not result in release in different energies. 
+
+Both nucleons and the nucleus are then approximated as spherical in shape. A sphere can have a maximum of twelve neighbours. Therefore a single nucleon releases a total energy 6U from interacting with the twelve neighbouring nucleons. So in a closely packed nucleus having A number of nucleons, where A is the mass number of the nucleus, the total energy released is 6UA.
+
+Thus the energy released from interaction of nucleons is directly proportional to the mass number of nucleons. This is called the volume energy, since it is proportional to the volume.
+
+ <p align="center">
+  <b>𝐸<sub>𝑉</sub>=𝑎<sub>1</sub>𝐴</b>
+ </p>
 Where a1 is a constant.
 
 ### Surface energy
