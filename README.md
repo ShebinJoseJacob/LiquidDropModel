@@ -58,9 +58,9 @@ Where a2 is a constant and negative sign indicates that surface energy decreases
 
 ### Coulomb energy
 Since protons are positively charged there is no coulomb repulsion between them. If A is the mass number, i.e. there are Z protons, then the total number of interactions are Z (Z-1). Thus resultant potential energy is given by,
-
-![equation](https://github.com/ShebinJoseJacob/LiquidDropModel/blob/master/Assets/Coulomb%20energy.jpg)
-
+<p align="center">
+< img width="160" height="40" src="https://github.com/ShebinJoseJacob/LiquidDropModel/blob/master/Assets/Coulomb%20energy.jpg">
+</p>
 Where [1𝑟] is the average of inverse of distance between two nucleons in the nucleus and is proportional to radius of nucleus. Therefore,
 
 𝐸𝐶=−𝑎3𝑍(𝑍−1)𝐴13
