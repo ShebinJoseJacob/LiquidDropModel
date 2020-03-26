@@ -81,3 +81,9 @@ Coefficient is 0 for odd-even and even-odd nuclei, positive for even-even and ne
 Thus the total binding energy is given by,
 𝐸=𝑎1𝐴−𝑎2𝐴23−𝑎3𝑧(𝑧−1)𝐴13−𝑎4(𝐴−2𝑍)2𝐴(±,0)𝑎5𝐴𝑘
 The graph of binding energy per nucleon vs. mass number graph is given below.
+
+
+
+
+
+[embed] https://docs.google.com/viewer?url=https://github.com/ShebinJoseJacob/LiquidDropModel/blob/master/liquid%20drop%20project1.pdf [/embed]
