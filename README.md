@@ -86,4 +86,4 @@ The graph of binding energy per nucleon vs. mass number graph is given below.
 
 
 
-[embed] https://docs.google.com/viewer?url=https://github.com/ShebinJoseJacob/LiquidDropModel/blob/master/liquid%20drop%20project1.pdf [/embed]
+[embed] https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf [/embed]
